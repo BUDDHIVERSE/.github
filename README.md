@@ -1,5 +1,5 @@
 # 🧠🌌 BUDDHIVERSE: Intelligence Across Dimensions
-### ⚡ Pioneering the fusion of ancient wisdom with cutting-edge AI technology.
+### ⚡ Pioneering the fusion of wisdom with cutting-edge AI technology.
 - 🛠️ We build intelligent systems that scale across dimensions - from edge to cloud, research to production.
 
 ---
